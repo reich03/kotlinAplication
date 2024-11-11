@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultilingualApp</string>
+    <string name="greeting_text">bienvenue</string>
+    <string name="button_text">Entrer</string>
+</resources>
